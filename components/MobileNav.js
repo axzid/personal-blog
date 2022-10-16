@@ -72,7 +72,7 @@ const MobileNav = () => {
                 className="text-2xl font-bold tracking-widest text-gray-900 dark:text-gray-100"
                 onClick={onToggleNav}
               >
-                {link.title}
+                <span className="text-xl hover:text-blue-300">{link.title}</span>
               </Link>
             </div>
           ))}

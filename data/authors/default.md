@@ -1,16 +1,25 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
+name: Alexander Zulfikar
+avatar: /static/images/Hero.webp
+occupation: Junior Front end Developer
+company:
+email: storyciks@gmail.com
+twitter: https://twitter.com/alexander_zull
 linkedin: https://www.linkedin.com
-github: https://github.com
+github: https://github.com/axzid
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Sedikit cerita tentang AlexanderZull, saya sekarang adalah seorang
+mahasiswa di salah satu universitas swasta di indonesia yang
+mengambil jurusan Teknik Informatika, benar saya adalah seorang
+mahasiswa TI walaupun dulu pas SMK jurusan nya Otomotife, memang
+aneh.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Saya adalah Junior Front End Javascript dan Begginer Back End di
+Javascript, beberapa skill di bidang javascript yang saya kuasai
+adalah VanilaJS, ReactJS, NodeJS, NextJS dan kalau untuk styling
+CSS saya menggunakan SASS dan Framework TailwindCSS
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Beberapa hal yang saya lakukan selain coding adalah Design, dan
+saya cukup menguasai Figma dan Photoshop untuk UI/UX, desain
+Poster dan lainya, jika anda membutuhkan jasa saya bisa contact saya
