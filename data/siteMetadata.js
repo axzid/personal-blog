@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Website personal dan portfolio Alexander Zulfikar',
   language: 'id',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://alxndrzul.vercel.app/',
+  siteUrl: 'https://alxndrzul.vercel.app',
   siteRepo: 'https://github.com/axzid/personal-blog',
   siteLogo: '/static/images/Hero.webp',
   image: '/static/images/Hero.webp',
