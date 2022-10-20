@@ -18,13 +18,32 @@ export default function Home({ posts }) {
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
+        <div className="container mx-auto p-4">
+          <div>
+            <img
+              src="/static/images/Hero.webp"
+              className="mx-auto block h-[300px] w-[300px] rounded-full shadow-2xl"
+              alt=""
+            />
+          </div>
+          <div className="mt-8 flex flex-col  items-center justify-center text-center">
+            <h1 className="text-2xl font-medium">Hello, saya AlexanderZull.</h1>
+            <h2 className="pt-4 text-xl  text-slate-600">
+              Saya adalah seorang Junior Front End Developer
+            </h2>
+            <p className="py-4 text-center font-medium text-slate-600 md:w-[75%]">
+              Jika anda ingin menghubungi saya untuk membuat website atau bantuan lainya silahkan
+              hubungi saya melalui email atau media sosial yang saya miliki.
+            </p>
+          </div>
+        </div>
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            Latest
+          <h1 className="text-xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-2xl sm:leading-10 md:text-4xl md:leading-14">
+            Recent post
           </h1>
-          <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
+          {/* <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
             {siteMetadata.description}
-          </p>
+          </p> */}
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
           {!posts.length && 'No posts found.'}
