@@ -23,17 +23,19 @@ export default function Home({ posts }) {
             <img
               src="/static/images/Hero.webp"
               className="mx-auto block h-[300px] w-[300px] rounded-full shadow-2xl"
-              alt=""
+              alt="image Author"
             />
           </div>
-          <div className="mt-8 flex flex-col  items-center justify-center text-center">
-            <h1 className="text-2xl font-medium">Hello, saya AlexanderZull.</h1>
-            <h2 className="pt-4 text-xl  text-slate-600">
-              Saya adalah seorang Junior Front End Developer
+          <div className="mt-8 flex flex-col  md:items-center md:justify-center ">
+            <h1 className="text-left text-2xl font-semibold text-slate-700">
+              Hello, saya<span className="font-bold"> AlexanderZull</span>{' '}
+            </h1>
+            <h2 className="pt-2 text-left  text-xl text-slate-600">
+              Mahasiswa dan seorang Frontend Developer
             </h2>
-            <p className="py-4 text-center font-medium text-slate-600 md:w-[75%]">
-              Jika anda ingin menghubungi saya untuk membuat website atau bantuan lainya silahkan
-              hubungi saya melalui email atau media sosial yang saya miliki.
+            <p className="py-2 text-left font-medium text-slate-400 md:w-[75%] md:text-center">
+              Saya adalah seorang mahasiwsa Teknik Informatika di Universitas Muria Kudus. selain
+              itu saya juga seorang front end web developer yang masih terus belajar sampai sekarang
             </p>
           </div>
         </div>
