@@ -1,7 +1,7 @@
 ---
 name: Alexander Zulfikar
 avatar: /static/images/Hero.webp
-occupation: Student & Junior Front end Developer
+occupation: Student & Junior Dev
 company:
 email: storyciks@gmail.com
 twitter: https://twitter.com/alexander_zull
