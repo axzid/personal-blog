@@ -15,9 +15,6 @@ mengambil jurusan Teknik Informatika, benar saya adalah seorang
 mahasiswa TI walaupun dulu pas SMK jurusan nya TKR(Teknik Kendaraan Ringan), memang
 aneh.
 
-Saya adalah Junior Front End Javascript dan Begginer Back End di
-Javascript, dan masih terus belajar tentang dunia programing
-selain programing ada beberapa hal yang saya sukai dan lakukan
-
-Beberapa hal yang saya lakukan selain coding adalah Desain
-saya biasanya menggunakan Photoshop atau Figma dan cukup bisa mengoperasikan keduanya.
+Selain mahasiswa TI, saya sekarang juga bekerja sebagai Web Developer
+di Esoftplay SoftwareDev, dan juga saya seorang Anime,Manga,Manhwa,Manhua,Game,Gym enthusiast yang masih
+menikmati semua hal itu sampe sekarang, sekian.
